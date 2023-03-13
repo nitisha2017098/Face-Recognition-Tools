@@ -12,6 +12,7 @@
 ### Open-Source :
 
 + deepface : 
+
 ```
 DeepFace is a facial recognition system developed by Facebook's AI research team, 
 known as Facebook AI Research (FAIR). It uses deep learning algorithms to analyze 
@@ -29,6 +30,7 @@ Deepface is a lightweight face recognition and facial attribute analysis
 (age, gender, emotion and race) framework for python. It is a hybrid face 
 recognition framework wrapping state-of-the-art models: VGG-Face, Google FaceNet, 
 OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib and SFace.
+
 ```
 
 
