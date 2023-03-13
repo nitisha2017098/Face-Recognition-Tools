@@ -32,6 +32,7 @@ OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib and SFace.
 ```
 
 
+
 + CompreFace : 
 
 
@@ -54,3 +55,20 @@ OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib and SFace.
 
 
 + InsightFace-Rest :
+
+
+
+
+
+
+
+### Installation of Deepface 
+
+```
+$ pip install deepface
+```
++ With this deepface is succesfully installed with its prerequisite.
+
+```
+from deepface import DeepFace
+```
